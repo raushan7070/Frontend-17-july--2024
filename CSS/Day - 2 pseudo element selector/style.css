@@ -1,0 +1,22 @@
+/* div::first-letter{
+    font-size: 25px;
+}
+p ::selection{
+    background-color: green;
+    color: white;
+} */
+/* ul>li::marker{
+    content: ❤️;
+} */
+ /* ol>li:nth-of-type(odd)::marker{
+    content: "😉";
+ }
+  */
+  /* ol>li::marker{
+    content: "f061";
+  }
+  ol>li::marker{
+    content: "\f";
+  } */
+
+  

@@ -1,0 +1,16 @@
+#Selector:- Selector is used to target the html element so that we can apply the property.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Tag</title>
+</head>
+<body>
+    <audio controls autoplay loop muted>
+        <source src="./Audio/Zindagi sawar doon doraemon theme song from all Musics....mp3">
+        Your browser is not supporting Audio Tag.
+    </audio>
+</body>
+</html>

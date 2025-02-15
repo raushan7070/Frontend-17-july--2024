@@ -1,0 +1,43 @@
+/*article :nth-child(odd){
+    color: orangered;
+}
+article :nth-child(even){
+    color: purple
+
+}
+article :nth-last-child(1){
+
+    color: red;
+}
+article :*{
+    color: blue;
+}
+*/
+/* article > p:first-of-type{
+color: orangered;
+}
+article > p:nth-child(3){
+    color: blue;
+}
+article > span:nth-child(3){
+    color: rgb(255, 0, 230);
+
+} */
+ a:link{
+    color: red;
+ }
+ a:active{
+    color: skyblue;
+ }
+ a:visited{
+    color: goldenrod;
+ }
+ a:hover{
+    text-decoration: underline blue;
+ }
+ input:focus{
+    outline-offset: 2px;
+    outline: 2px solid rebeccapurple;
+    border-radius: 3px;
+    border-color: red;
+ }

@@ -1,0 +1,11 @@
+@font-face {
+    font-family:'chombu';
+    src: url('./Font/DancingScript-SemiBold.ttf');
+}
+
+div{
+    font-size: 105px;
+    font-weight: bold;
+    font-style:oblique 25deg;
+    font-family: 'chombu';
+}

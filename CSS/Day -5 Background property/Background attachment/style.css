@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+
+}
+section{
+    width:  100%;
+    height:100% ;
+    background-repeat: no-repeat;
+    block-size: 100% 100%;
+    background-position: center
+     center;
+     background-attachment: fixed;
+}
+  
+.section-1{
+    background-image:url(https://images.carandbike.com/car-images/large/mahindra/scorpio-n/mahindra-scorpio-n.jpg?v=25)
+}
+.section-2{
+   background-image:url(https://www.financialexpress.com/wp-content/uploads/2024/01/Hyundai-Creta-reviuew-feature.jpg?w=1024) ;
+} 
+ .section-3{
+    background-image: url(https://c.ndtvimg.com/2019-02/lfapfl2c_mahindra-xuv300-review_625x300_05_February_19.jpg);
+} 
+.section-4{
+    background-image: url(https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-32.jpeg?q=80);
+} 
+ .section-5{
+   background-image:url(https://media.nojoto.com/content/media/1313238/2020/01/feed/ac505018f7fd5d2eba2cd894d20ea5c7/ac505018f7fd5d2eba2cd894d20ea5c7_default.jpg) ;
+}
+.section-6{
+    background-image: url(https://5.imimg.com/data5/LP/BJ/US/ANDROID-87144134/product-jpeg-500x500.jpg);
+} 

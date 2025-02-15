@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+section{
+    width: 100vw;
+    height: 600vw;
+    border: 4px solid black;
+    background-color: tomato;
+    position: relative;
+    cursor: pointer;
+}
+section div{
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+    animation: slider 1.5s;
+}
+@keyframes slider {
+
+    
+}

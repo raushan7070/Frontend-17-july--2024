@@ -1,0 +1,15 @@
+article p{
+    color: blue;
+}
+
+article>p{
+    color: mediumvioletred;
+}
+
+article >.child1{
+    color: mediumvioletred ;
+}
+
+article>main>p{
+    color: orange;
+}
